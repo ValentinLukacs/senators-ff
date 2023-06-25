@@ -3,9 +3,21 @@ layout: page
 title: Conte Cup
 permalink: /conte-cup/
 ---
+<style>
+    .iframeContainer{
+        position:relative;
 
-## Conte-Cup Tabelle 23/24 
-<iframe src="https://www.conte-hockey-cup.ch/liga-b/tabelle.html"></iframe>
+    }
+    .iframeContent{
+        position:absolute;
+
+    }
+</style>
+
+## Conte-Cup Tabelle 23/24
+<div class="iframeContainer"> 
+    <iframe src="https://www.conte-hockey-cup.ch/liga-b/tabelle.html" scrolling="no" class="iframeContent"></iframe>
+</div>
 
 [Tabelle & Resultate](https://www.conte-hockey-cup.ch/liga-b/tabelle.html)
 
