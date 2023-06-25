@@ -6,10 +6,17 @@ permalink: /conte-cup/
 <style>
     .iframeContainer{
         position:relative;
+        width: 500px;
+        height: 400px;
+        overflow: hidden;
 
     }
     .iframeContent{
         position:absolute;
+        top:10px;
+        left:10px;
+        width:300px;
+        height:200px;
 
     }
 </style>
