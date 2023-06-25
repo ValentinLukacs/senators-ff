@@ -15,7 +15,7 @@ permalink: /conte-cup/
         position: absolute;
         top: -206px;
         left: -21px;
-        width: 90%;
+        width: 100%;
         height: 656px;
     }
 
