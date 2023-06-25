@@ -14,7 +14,7 @@ permalink: /conte-cup/
     .iframeContent{
         position: absolute;
         top: -206px;
-        left: -21px;
+        left: 0px;
         width: 100%;
         height: 656px;
     }
