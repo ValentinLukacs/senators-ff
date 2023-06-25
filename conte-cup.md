@@ -4,7 +4,7 @@ title: Conte Cup
 permalink: /conte-cup/
 ---
 
-## Tabelle 2023
+## Conte-Cup Tabelle 23/24 
 [Tabelle & Resultate](https://www.conte-hockey-cup.ch/liga-b/tabelle.html)
 
 ## Spielplan Conte-Cup 23/24

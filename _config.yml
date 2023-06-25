@@ -48,7 +48,8 @@ minima:
 # order as they should show up.
 #
 header_pages:
-  - spielplan.md
+  - thl.md
+  - conte-cup.md
   - sponsoren.md
   - verein.md
 
